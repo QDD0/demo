@@ -1,8 +1,7 @@
-package org.example.Task4;
+package org.example.task4;
 
 import java.io.File;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
